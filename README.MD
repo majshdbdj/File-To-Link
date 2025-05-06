@@ -41,7 +41,6 @@ broadcast - broadcast a message to all users
 
 login - to login if it's password protected 
 
-
 ## How to make your own
 
 Either you could locally host or deploy on [Heroku](https://heroku.com)
@@ -50,7 +49,7 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 
 Press the below button to Fast deploy on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aadhi000/File-To-Link)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/opustechz/File-To-Link)
 
 
 🚀Features<p>
